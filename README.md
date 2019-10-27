@@ -1,2 +1,2 @@
 # basketball-tip-off-model
-An explorateory analysis of basketball tip offs
+An exploratory analysis of basketball tip offs
